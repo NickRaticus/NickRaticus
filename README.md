@@ -36,5 +36,6 @@
   </a>
   <a href="mailto:nickraticus.github.professed361@passmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/NickRaticus/NickRaticus/refs/heads/main/icons8-protonmail-48.svg" width="52" height="40" alt="Proton mail logo"/>
+    <img width="12"/>
   </a>
 </div>
