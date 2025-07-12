@@ -29,13 +29,4 @@
 </div>
 
 ###
-<div align="left" style="display: flex; align-items: center;">
-  <a href="https://discordapp.com/users/535494839782080558" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discordlogo"/>
-    <img width="12"/>
-  </a>
-  <a href="mailto:nickraticus.github.professed361@passmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/NickRaticus/NickRaticus/refs/heads/main/icons8-protonmail-48.svg" width="52" height="40" alt="Proton mail logo"/>
-    <img width="12"/>
-  </a>
-</div>
+<div align="left" style="display: flex; align-items: center;"><a href="https://discordapp.com/users/535494839782080558" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discordlogo"/><img width="12"/></a><a href="mailto:nickraticus.github.professed361@passmail.com" target="_blank"><img src="https://raw.githubusercontent.com/NickRaticus/NickRaticus/refs/heads/main/icons8-protonmail-48.svg" width="52" height="40" alt="Proton mail logo"/><img width="12"/></a></div>
