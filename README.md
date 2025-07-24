@@ -49,7 +49,7 @@ I'm passionate about coding, learning new technologies, and building creative so
 
 ## 📊 GitHub Stats
 
-![NickRaticus's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickRaticus&show_icons=true&theme=radical)
+![NickRaticus's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickRaticus&show_icons=true&theme=solarized-dark)
 
 ---
 Thanks for visiting my profile! Feel free to check out my repositories and connect.
