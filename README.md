@@ -9,7 +9,16 @@ I'm passionate about coding, learning new technologies, and building creative so
 - 🇩🇰💪 From Denmark 
 - 👯 Open to collaborating on interesting projects.
 - 🛠️ Experienced with a variety of programming languages and tools.
-- 📫 Reach me via [GitHub](https://github.com/NickRaticus), [Discord](https://discordapp.com/users/535494839782080558), or [Email](mailto:nickraticus.github.professed361@passmail.com).
+- 📫 Reach me via
+  <a href="https://github.com/NickRaticus" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" alt="GitHub" style="vertical-align:middle;"/>
+  </a>
+  <a href="mailto:nickraticus.github.professed361@passmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/NickRaticus/NickRaticus/main/icons8-protonmail-48.svg" width="22" height="22" alt="ProtonMail" style="vertical-align:middle;"/>
+  </a>
+  <a href="https://discordapp.com/users/535494839782080558" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="22" height="22" alt="Discord" style="vertical-align:middle;"/>
+  </a>
 
 ## 🖥️ Tech Stack
 
