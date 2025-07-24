@@ -11,7 +11,7 @@ I'm passionate about coding, learning new technologies, and building creative so
 - 🛠️ Experienced with a variety of programming languages and tools.
 - 📫 Reach me via
   <a href="https://github.com/NickRaticus" target="_blank" style="display:inline; text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" height="15" alt="GitHub" style="vertical-align:middle;"/> <span style="vertical-align:middle; color:inherit;">GitHub</span>
+    <img src="https://www.iconsdb.com/icons/preview/silver/github-10-xxl.png" width="15" height="15" alt="GitHub" style="vertical-align:middle;"/> <span style="vertical-align:middle; color:inherit;">GitHub</span>
   </a>
   <a href="mailto:nickraticus.github.professed361@passmail.com" target="_blank" style="display:inline; text-decoration:none;">
     <img src="https://raw.githubusercontent.com/NickRaticus/NickRaticus/main/icons8-protonmail-48.svg" width="15" height="15" alt="ProtonMail" style="vertical-align:middle;"/> <span style="vertical-align:middle; color:inherit;">Email</span>
