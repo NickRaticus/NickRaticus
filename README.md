@@ -51,9 +51,9 @@ I'm passionate about coding, learning new technologies, and building creative so
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NickRaticus&show_icons=true&theme=solarized-dark&card_width=500" width="500"
-  height="200" alt="GitHub Stats"/>
+  height="250" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickRaticus&langs_count=8&theme=solarized-dark" width="500"
-  height="200" alt="Top Langs"/>
+  height="250" alt="Top Langs"/>
 </p>
 
 
