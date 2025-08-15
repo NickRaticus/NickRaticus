@@ -1,7 +1,7 @@
 # Hi, I'm Raticus 👋
 
 Welcome to my GitHub profile!  
-I'm passionate about coding, learning new technologies, and building creative solutions.
+I love coding, learning new technologies, and building creative solutions.
 
 ## 🚀 About Me
 - 🎓 I'm still in school and always striving to expand my knowledge.
